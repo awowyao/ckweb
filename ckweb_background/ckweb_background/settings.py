@@ -86,16 +86,7 @@ ASGI_APPLICATION = 'ckweb_background.routing.application'
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.mysql',
-#         'NAME': 'ckweb_database',
-#         'USER':'root',
-#         'PASSWORD':'9595sjh...',
-#         'HOST':'47.106.159.32',
-#         'PORT':'3306',
-#     }
-# }
+
 
 DATABASES = {
     'default': {
