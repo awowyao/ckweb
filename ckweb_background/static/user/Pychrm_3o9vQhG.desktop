@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=pycharm2020-1
+Comment=pycharm2020-1 IDE
+Exec=/media/chen/90060F98060F7F0A/pycharm2020/pycharm-2020.1/bin/pycharm.sh
+Icon=/media/chen/90060F98060F7F0A/pycharm2020/pycharm-2020.1/bin/pycharm.png
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Application;Development;
